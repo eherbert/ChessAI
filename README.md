@@ -1,1 +1,1 @@
-Our final project is located in the master branch, Final directory.
+Chess solver AI written in Haskell.
